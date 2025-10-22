@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of AI Job Hunter & CV Tailor",
+  "description": "An advanced tool that leverages the Gemini API to find jobs based on your CV, retrieve company details, and generate tailored, ATS-friendly CVs in PDF format. Also includes a suite of Gemini-powered tools for image generation, analysis, audio transcription, and real-time voice assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
